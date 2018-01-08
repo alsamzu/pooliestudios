@@ -11,11 +11,12 @@ h2{
     color: white;
     
     font-size: 5vw;
+    font-style: italic;
 
 }
 .color{
-color: #ff6f00;
-    font-weight: 600;
+color:#ffb300;
+    
 }
 #intro {
     background: url("/img/poolie.jpg")no-repeat center center fixed;
