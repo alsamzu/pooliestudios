@@ -5,6 +5,9 @@ header,
     height: 100%;
 
 }
+body{
+    background-color: #fff8e1;
+}
 
 a {
 
@@ -49,6 +52,9 @@ h2 {
 
 
 }
+h1{
+    color: #ff6f00;
+}
 #we{
     line-height: inherit;
     font-weight: 550;
@@ -58,7 +64,10 @@ h2 {
 
 }
 #hech{
-    color: black;
+    color: #ff6f00;
+}
+h3{
+    color:#424242;
 }
 
 #intro {
