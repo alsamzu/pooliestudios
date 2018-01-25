@@ -18,7 +18,14 @@ body{
 
 .fa {
     color: white;
-    padding: 10px;
+    padding: 13px;
+}
+.fa-envelope-o, .fa-twitter, .fa-dribbble, .fa-linkedin, .fa-vimeo{
+    padding: 2.5px;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 50%;
+    border-color: #fff;
 }
 
 h6 {
