@@ -9,36 +9,11 @@ body{
     background-color: #fff8e1;
 }
 
-a {
-
-    color: #ffecb3;
-    text-decoration: none;
-    font-weight: bold;
-
-}
-
-a:hover {
-
-    color: #ff6f00;
-    text-decoration: none;
-
-}
-
-
-nav {
+#btt{
     float: right;
-    padding: 20px;
-}
-
-
-ul {
-    list-style: none;
-}
-
-li {
-    display: inline-block;
-    float: left;
-    padding: 10px
+    
+    
+    
 }
 
 #on {
@@ -46,9 +21,11 @@ li {
 }
 
 h2 {
-    color: white;
+    color: #fff;
     font-size: 5vw;
     font-style: italic;
+    font-family: 'Courgette', cursive;
+    
 
 
 }
@@ -71,7 +48,8 @@ h3{
 }
 
 #intro {
-    background: url("/img/poolie.jpg")no-repeat center center fixed;
+    background-color: black;
+/*    background: url("/img/back.jpg")no-repeat center center fixed;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
